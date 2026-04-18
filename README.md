@@ -46,7 +46,7 @@ graph TD
 🏠 Cenário Doméstico
 Focado em administração de servidores, virtualização via Proxmox, hospedagem de servidores de jogos (Minecraft) e backups redundantes. O nó Xeon gerencia containers LXC e VMs críticas para o ecossistema.
 
-## 🏫 Cenário Móvel (Faculdade)
+🏫 Cenário Móvel (Faculdade)
 O ThinkPad T460 atua como estação de controle portátil para desenvolvimento em Docker, estudos de automação e acesso remoto seguro via VPN ao Home Lab.
 
 ## 🛡️ Segurança e Privacidade
