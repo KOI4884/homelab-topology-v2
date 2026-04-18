@@ -1,0 +1,39 @@
+# === Segurança e Segredos (CRÍTICO) ===
+.env
+*.pem
+*.key
+secrets.yml
+credentials.json
+auth_token*
+
+# === Arquivos de Sistema (Windows) ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# === Arquivos de Sistema (Linux) ===
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# === Virtualização e Containers ===
+.vagrant/
+.docker/
+*.log
+docker-compose.override.yml
+
+# === Editores e IDEs ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Python (Caso use scripts de automação) ===
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
