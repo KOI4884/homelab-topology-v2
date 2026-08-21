@@ -15,7 +15,7 @@ Abaixo estão detalhados os nós de processamento e dispositivos que compõem o 
 | **Main Server (Xeon)** | E5-2680 V4 (14C/28T) | 16GB DDR4 | 500GB NVMe + 1TB HDD | [Proxmox VE](https://www.proxmox.com/) |
 | **Firewall (MediaVue)** | AMD GX-424CC (4C/4T) | 16GB DDR3 | 120GB mSATA SSD | [OPNsense](https://opnsense.org/) |
 | **Workstation (Acer)** | i7-13620H (RTX 4050) | 32GB DDR5 | 512GB NVMe Gen4 | [Windows 11 Pro](https://www.microsoft.com/software-download/windows11) |
-| **Laptop (ThinkPad)** | i5-6300U | 16GB DDR3 | 256GB SSD | [Kubuntu Linux](https://kubuntu.org/) |
+| **Laptop (ThinkPad)** | i5-6300U | 16GB DDR3 | 256GB SSD | [Debian Linux](https://debian.org/) |
 | **Mobile (Poco)** | Snapdragon 8s Gen 4 | 12GB RAM | 512GB Flash | Android 15 (HyperOS) |
 
 ---
